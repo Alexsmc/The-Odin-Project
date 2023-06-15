@@ -1,0 +1,19 @@
+.odd-number{
+    background-color: rgb(233, 123, 123);
+    font-family: Verdana, sans-serif;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#unique-2{
+    color: blue;
+    font-size: 36px;
+}
+
+#unique-4{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
